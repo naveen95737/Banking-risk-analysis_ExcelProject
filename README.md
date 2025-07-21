@@ -55,12 +55,6 @@ An Excel-based project analyzing consumer lending data to identify risk patterns
 
 ---
 
-## 👤 Author
-
-**Naveen Kakarla** – Data Analyst | Excel Enthusiast
-
----
-
 ## 🏷️ Tags
 
 `#Excel` `#LoanAnalysis` `#BankingDashboard` `#RiskProfiling` `#DataVisualization` `#RAR` `#LPI`
